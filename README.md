@@ -1,6 +1,6 @@
-# 📊 Interactive Sales & Business Intelligence Dashboard using Power BI
+# Interactive Sales & Business Intelligence Dashboard using Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an **interactive Sales & Business Intelligence Dashboard developed using Microsoft Power BI** with the **Adventure Works dataset**.
 
@@ -10,7 +10,7 @@ The primary objective is to help users quickly understand **sales performance, r
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Analyze overall **sales and revenue performance**
 * Monitor important **business KPIs**
@@ -24,7 +24,7 @@ The primary objective is to help users quickly understand **sales performance, r
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 The project uses the **Adventure Works** business dataset containing information related to:
 
@@ -49,7 +49,7 @@ The project uses the **Adventure Works** business dataset containing information
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### 1. KPI Cards
 
@@ -128,24 +128,24 @@ Interactive filtering allows users to focus on specific geographical areas.
 
 ---
 
-## 📈 Visualizations Used
+## Visualizations Used
 
 The project demonstrates multiple Power BI visualization techniques:
 
-* 📊 **Clustered Column Chart**
-* 📊 **Clustered Bar Chart**
-* 📈 **Line Chart**
-* 📉 **Stacked Area Chart**
-* 🍩 **Pie/Donut Chart**
-* 🔻 **Funnel Chart**
-* 🃏 **KPI Cards**
-* 🎚️ **Interactive Slicer**
-* 🔘 **Page Navigation Buttons**
-* 📋 Interactive filtering and drill-style analysis
+*  **Clustered Column Chart**
+*  **Clustered Bar Chart**
+*  **Line Chart**
+*  **Stacked Area Chart**
+*  **Pie/Donut Chart**
+*  **Funnel Chart**
+*  **KPI Cards**
+*  **Interactive Slicer**
+*  **Page Navigation Buttons**
+*  Interactive filtering and drill-style analysis
 
 ---
 
-## 🧮 DAX & Measures
+## DAX & Measures
 
 The dashboard uses **DAX (Data Analysis Expressions)** to create calculated business metrics.
 
@@ -167,11 +167,11 @@ These measures allow the dashboard to dynamically respond to filters and user se
 
 ---
 
-## 🔄 Interactive Dashboard
+## Interactive Dashboard
 
 The dashboard includes interactive elements such as:
 
-### 🎚️ Slicers
+### Slicers
 
 Users can filter the dashboard based on dimensions such as:
 
@@ -180,17 +180,17 @@ Users can filter the dashboard based on dimensions such as:
 * Time period
 * Business performance metrics
 
-### 🔘 Page Navigation
+### Page Navigation
 
 Page navigation buttons allow users to move between different dashboard pages easily.
 
-### 🔍 Dynamic Filtering
+### Dynamic Filtering
 
 Charts and KPI cards dynamically update based on selected filters, allowing users to perform customized business analysis.
 
 ---
 
-## 📄 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Sales & Performance Overview
 
@@ -221,7 +221,7 @@ Provides a more focused analysis using:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Technology                        | Usage                                    |
 | --------------------------------- | ---------------------------------------- |
@@ -234,7 +234,7 @@ Provides a more focused analysis using:
 
 ---
 
-## 🏗️ Project Workflow
+## Project Workflow
 
 ```text
 Raw Business Data
@@ -260,7 +260,7 @@ Business Insights
 
 ---
 
-## 💡 Key Insights Enabled by the Dashboard
+## Key Insights Enabled by the Dashboard
 
 The dashboard enables users to identify:
 
@@ -275,7 +275,7 @@ The dashboard enables users to identify:
 
 ---
 
-## 📌 Business Value
+## Business Value
 
 This dashboard demonstrates how **Business Intelligence and Data Analytics** can transform transactional data into an easy-to-understand decision-support system.
 
@@ -291,22 +291,22 @@ It can help business users:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Power-BI-Sales-Business-Intelligence-Dashboard/
 │
-├── 📊 Adventure Works DB PowerBI.pbix
-├── 📷 Dashboard-Screenshots/
+├── Adventure Works DB PowerBI.pbix
+├── Dashboard-Screenshots/
 │   ├── dashboard-page-1.png
 │   └── dashboard-page-2.png
 │
-└── 📄 README.md
+└── README.md
 ```
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Analysis
 * Business Intelligence
@@ -326,13 +326,13 @@ Power-BI-Sales-Business-Intelligence-Dashboard/
 
 ---
 
-## 🎓 Project Type
+## Project Type
 
 **Data Analytics | Business Intelligence | Power BI | Data Visualization**
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Srushti Janbandhu**
 
@@ -342,7 +342,7 @@ Power-BI-Sales-Business-Intelligence-Dashboard/
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates the practical application of **Power BI, DAX, data modeling, KPI analysis, and interactive data visualization** to develop a business intelligence solution from the Adventure Works dataset.
 
