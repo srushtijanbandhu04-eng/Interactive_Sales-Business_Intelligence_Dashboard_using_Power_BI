@@ -331,6 +331,10 @@ Power-BI-Sales-Business-Intelligence-Dashboard/
 **Data Analytics | Business Intelligence | Power BI | Data Visualization**
 
 ---
+## Link
+https://app.powerbi.com/reportEmbed?reportId=69506603-354e-4360-bf91-7baaab2e1b83&autoAuth=true&ctid=4c660351-8e11-4caf-b52b-186e573c63c6
+
+---
 
 ## Author
 
